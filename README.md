@@ -1,0 +1,2 @@
+# mynode
+docker test
